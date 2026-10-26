@@ -6,7 +6,3 @@ Our work primarily focuses on video anomaly detection in UAV videos under dynami
 
 The code and new dataset will be publicly available!
 
-Datasets:
-- [Drone-Anomaly](https://github.com/Jin-Pu/Drone-Anomaly)
-- [UIT-ADrone](https://drive.google.com/drive/folders/1ygWcuOZ7kEwS-rC35gWv6f6qeNx0BHyg)
-- [MUVAD](https://drive.google.com/drive/folders/)
